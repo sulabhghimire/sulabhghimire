@@ -12,8 +12,6 @@ Currently working as a Level II Software Engineer, I focus on developing data-in
 
 ---
 
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
