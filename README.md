@@ -1,10 +1,9 @@
 # Hi there, I'm Sulabh Ghimire! 👋
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sulabhghimire/sulabhghimire/refs/heads/main/Githubbanerimage.webp" alt="Sulabh Ghimire GitHub Banner" style="width: 100%; max-width: 1000px; height: auto;">
-</div>
+![github-banner](https://raw.githubusercontent.com/sulabhghimire/sulabhghimire/refs/heads/main/Githubbanerimage.webp)
 
-🎓 **Recent Graduate**  
+
+🎓 **Education**  
 I earned my Bachelor's degree in Computer Engineering from Tribhuvan University, graduating with an impressive aggregate score of 77.50%.  
 
 💻 **Software Engineer at Gritfeat Solutions**  
@@ -36,6 +35,15 @@ Currently working as a Level II Software Engineer, I focus on developing data-in
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sulabhghimire&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sulabhghimire&theme=radical" alt="GitHub Streak" width="48%" />
+</div>
 
 ---
 
