@@ -41,7 +41,7 @@ Currently working as a Level II Software Engineer, I focus on developing data-in
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sulabhghimire&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sulabhghimire&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" height="192px" />
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sulabh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sulabhghimire&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 </div>
 
