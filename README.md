@@ -42,10 +42,8 @@ Currently working as a Level II Software Engineer, I focus on developing data-in
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sulabhghimire&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=sulabhghimire&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-
 </div>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=sulabhghimire)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sulabhghimire)](https://git.io/streak-stats)
 
 ---
 
