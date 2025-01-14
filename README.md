@@ -1,7 +1,7 @@
 # Hi there, I'm Sulabh Ghimire! 👋
 
 <div align="center">
-  <img src="IMAGE_URL" alt="Sulabh Ghimire GitHub Banner" style="width: 100%; max-width: 1000px; height: auto;">
+  <img src="https://raw.githubusercontent.com/sulabhghimire/sulabhghimire/refs/heads/main/Githubbanerimage.webp" alt="Sulabh Ghimire GitHub Banner" style="width: 100%; max-width: 1000px; height: auto;">
 </div>
 
 🎓 **Recent Graduate**  
