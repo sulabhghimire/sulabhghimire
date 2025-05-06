@@ -54,7 +54,7 @@ Currently working as a Level II Software Engineer, I focus on developing data-in
 ---
 
 ## 📫 Let's Connect!
-- **Email**: [sulabhghimire82@gmai.com]  
+- **Email**: [sulabhghimire82@gmail.com]  
 - **LinkedIn**: [https://www.linkedin.com/in/sulabh-ghimire/]  
 - **GitHub**: You're already here!  
 
